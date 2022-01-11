@@ -19,7 +19,7 @@ function displaySingle(item) {
   var singleInvoice = `
     <div class="container mainpaid-section m-5 ps-5 w-75 mx-auto">
         <div class="go-back d-flex align-items-center " id="icon-back ">
-        <a class="text-decoration-none" href="/"><i class="fas fa-chevron-left" id="icon-back"></i><span>Go Back</span></a> 
+        <a class="text-decoration-none" href="https://aspire-srv.github.io/Invoicer/"><i class="fas fa-chevron-left" id="icon-back"></i><span>Go Back</span></a> 
         </div>
         <div class="section-status p-5">
             <div class="d-flex justify-content-between status-ending">
