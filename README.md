@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./resources/preview.jpg)
+![screenshot](./design%files/Desktop_main.png)
 
 ### Links
 
 - Solution URL: 
-- Live Site URL: [https://afternoon-retreat-02971.herokuapp.com/](https://afternoon-retreat-02971.herokuapp.com/)
+- Live Site URL: [Invoicer App](https://aspire-srv.github.io/Invoicer/)
 
 ## My process
 
